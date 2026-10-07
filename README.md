@@ -1,4 +1,4 @@
-# JForce SQL Developer Task
+# JForce SQL Task
 
 ## Project
 Employee Management and Payroll Database using MySQL Stored Procedures.
